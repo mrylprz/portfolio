@@ -22,22 +22,29 @@ If you're looking for someone to turn your data into a masterpiece or discuss th
 
 ## My Projects:
 
-### Project 1: Football Analytics: Market Value Analysis of English Premier League 2020/2021
-
-| | |
-| --- | --- |
-| [![Project 1: Analytics in Sports](https://github.com/mrylprz/portfolio/blob/main/Project%20Covers/englishpremierleague20202021_cover.png)](https://mrylprz.github.io/englishpremierleague20202021/) | **Overview:** This project aims to provide a comprehensive analysis of the relationships between various variables and Key Performance Indicators (KPIs) with the market values of players and clubs in the English Premier League for the 2020/2021 season. |
-
-
-
-### Project 2: Invoice Payment Outcome Prediction
-
-| | |
-| --- | --- |
-| [![Project 2: Analytics in Finance](https://github.com/mrylprz/portfolio/blob/main/Project%20Covers/predicting-payment-outcomes_cover.png)](https://mrylprz.github.io/predicting-payment-outcomes/) | **Overview:** This project focuses on predicting invoice payment outcomes using supervised machine learning. Inefficient accounts receivable (AR) management can lead to financial and efficiency problems. This project aims to optimize AR management through AI, specifically by determining the most suitable supervised ML technique for this application.|
-
-### Project 3: 4G Mobile Data Traffic Forecasting and Analysis
-
-| | |
-| --- | --- |
-| [![Project 3: Analytics in Telecommunications](https://github.com/mrylprz/portfolio/blob/main/Project%20Covers/LTE-traffic-forecasting_cover.png)](https://mrylprz.github.io/LTE-traffic-forecasting/) | **Overview:** This project focuses on the application of short-term forecasting in mobile data traffic analysis for 4G or LTE RAN. For this study, the mobile traffic data is analysed on the “cell” level, the area serviced by a single cell site because capacity adjustments are mostly done in the cell level (e.g. changes in configuration and license expansions to allow more capacity). |
+<table>
+  <tr>
+    <td style="width: 200px;">
+      <a href="https://mrylprz.github.io/englishpremierleague20202021/">
+        <img src="https://github.com/mrylprz/portfolio/blob/main/Project%20Covers/englishpremierleague20202021_cover.png" alt="Project 1: Analytics in Sports" width="100%">
+      </a>
+    </td>
+    <td style="width: 300px;"><a href="https://mrylprz.github.io/englishpremierleague20202021/"><strong>Football Analytics: Market Value Analysis of English Premier League 2020/2021 </strong> </a> <br> Overview: This project aims to provide a comprehensive analysis of the relationships between various variables and Key Performance Indicators (KPIs) with the market values of players and clubs in the English Premier League for the 2020/2021 season.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://mrylprz.github.io/predicting-payment-outcomes/">
+        <img src="https://github.com/mrylprz/portfolio/blob/main/Project%20Covers/predicting-payment-outcomes_cover.png" alt="Project 2: Analytics in Finance" width="100%">
+      </a>
+    </td>
+    <td style="width: 300px;"><a href="https://mrylprz.github.io/predicting-payment-outcomes/"><strong>Analytics in Finance: Invoice Payment Outcome Prediction </strong> </a> <br> Overview: This project focuses on predicting invoice payment outcomes using supervised machine learning. Inefficient accounts receivable (AR) management can lead to financial and efficiency problems. This project aims to optimize AR management through AI, specifically by determining the most suitable supervised ML technique for this application.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://mrylprz.github.io/LTE-traffic-forecasting/">
+        <img src="https://github.com/mrylprz/portfolio/blob/main/Project%20Covers/LTE-traffic-forecasting_cover.png" alt="Project 3: Your Project Name" width="100%">
+      </a>
+    </td>
+    <td style="width: 300px;"><a href="https://mrylprz.github.io/LTE-traffic-forecasting/"><strong>Analytics in Telecommunications: 4G Mobile Data Traffic Forecasting and Analysis </strong> </a> <br> Overview: This project focuses on the application of short-term forecasting in mobile data traffic analysis for 4G or LTE RAN. For this study, the mobile traffic data is analysed on the “cell” level, the area serviced by a single cell site because capacity adjustments are mostly done in the cell level (e.g. changes in configuration and license expansions to allow more capacity).</td>
+  </tr>
+</table>
