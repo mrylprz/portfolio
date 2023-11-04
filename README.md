@@ -1,6 +1,8 @@
+![Temporary Banner](https://raw.githubusercontent.com/mrylprz/portfolio/main/Project%20Covers/portfolio-temporary-banner.png)
+
 # Welcome to my Portfolio
 
-Hi there! I'm **Meryl Perez**, a data sorceress, on a quest to turn every dataset into a compelling story. 
+Hi there! I'm **Meryl Perez**, a data sorceress, on a quest to turn every dataset into a compelling story. I am actively working on this portfolio website, and it is currently in its early stages of development. Many sections and features are still under construction, and I appreciate your understanding as I continue to enhance and expand the content.
 
 ## My Data Journey:
 
@@ -26,7 +28,7 @@ If you're looking for someone to turn your data into a masterpiece or discuss th
   <tr>
     <td style="width: 400px;">
       <a href="https://mrylprz.github.io/englishpremierleague20202021/">
-        <img src="Project Covers/englishpremierleague20202021_cover.png" alt="Project 1: Analytics in Sports" width="100%">
+        <img src="./Project Covers/englishpremierleague20202021_cover.png" alt="Project 1: Analytics in Sports" width="100%">
       </a>
     </td>
     <td><a href="https://mrylprz.github.io/englishpremierleague20202021/"><strong>Football Analytics: Market Value Analysis of English Premier League 2020/2021 </strong> </a> <br> Overview: This project aims to provide a comprehensive analysis of the relationships between various variables and Key Performance Indicators (KPIs) with the market values of players and clubs in the English Premier League for the 2020/2021 season.</td>
@@ -34,7 +36,7 @@ If you're looking for someone to turn your data into a masterpiece or discuss th
   <tr>
     <td>
       <a href="https://mrylprz.github.io/predicting-payment-outcomes/">
-        <img src="Project Covers/predicting-payment-outcomes_cover.png" alt="Project 2: Analytics in Finance" width="100%">
+        <img src="./Project Covers/predicting-payment-outcomes_cover.png" alt="Project 2: Analytics in Finance" width="100%">
       </a>
     </td>
     <td><a href="https://mrylprz.github.io/predicting-payment-outcomes/"><strong>Analytics in Finance: Invoice Payment Outcome Prediction </strong> </a> <br> Overview: This project focuses on predicting invoice payment outcomes using supervised machine learning. Inefficient accounts receivable (AR) management can lead to financial and efficiency problems. This project aims to optimize AR management through AI, specifically by determining the most suitable supervised ML technique for this application.</td>
@@ -42,7 +44,7 @@ If you're looking for someone to turn your data into a masterpiece or discuss th
   <tr>
     <td>
       <a href="https://mrylprz.github.io/LTE-traffic-forecasting/">
-        <img src="Project Covers/LTE-traffic-forecasting_cover.png" alt="Project 3: Your Project Name" width="100%">
+        <img src="./Project Covers/LTE-traffic-forecasting_cover.png" alt="Project 3: Your Project Name" width="100%">
       </a>
     </td>
     <td><a href="https://mrylprz.github.io/LTE-traffic-forecasting/"><strong>Analytics in Telecommunications: 4G Mobile Data Traffic Forecasting and Analysis </strong> </a> <br> Overview: This project focuses on the application of short-term forecasting in mobile data traffic analysis for 4G or LTE RAN. For this study, the mobile traffic data is analysed on the “cell” level, the area serviced by a single cell site because capacity adjustments are mostly done in the cell level (e.g. changes in configuration and license expansions to allow more capacity).</td>
