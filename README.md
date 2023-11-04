@@ -1,4 +1,4 @@
-![Temporary Banner](https://raw.githubusercontent.com/mrylprz/portfolio/main/Project%20Covers/portfolio-temporary-banner.png)
+![Banner](https://raw.githubusercontent.com/mrylprz/portfolio/main/Project%20Covers/portfolio-temporary-banner.png)
 
 # Welcome to my Portfolio
 
